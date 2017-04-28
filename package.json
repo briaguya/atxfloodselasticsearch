@@ -1,0 +1,19 @@
+{
+  "name": "atxfloodselasticsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briaguya/atxfloodselasticsearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briaguya/atxfloodselasticsearch/issues"
+  },
+  "homepage": "https://github.com/briaguya/atxfloodselasticsearch#readme"
+}
